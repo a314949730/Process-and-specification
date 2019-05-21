@@ -15,8 +15,11 @@ stylelint //css样式检测
 Prettier - Code formatter  //代码格式化工具
 path intellisense  //自动路径补全
 Document this //js模板注释
+
 [命名规范](https://devcloud.huaweicloud.com/docman/project/7158ffc402e84ef3b48d657b365cf235/docman/detail/2854238/list)
+
 [css代码规范](https://devcloud.huaweicloud.com/docman/project/7158ffc402e84ef3b48d657b365cf235/docman/detail/2854236/list)
+
 [js代码规范](https://devcloud.huaweicloud.com/docman/project/7158ffc402e84ef3b48d657b365cf235/docman/detail/2854237/list)
 
 2. #### 模块化
@@ -33,8 +36,11 @@ Document this //js模板注释
 
 4. #### 自动化
 Sentry（产生报错的日志收集）
+
 WebPagetest（性能测试）
+
 Jest（组件单元测试），
+
 jenkins（自动化部署）
 
 
